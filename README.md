@@ -4,7 +4,6 @@
 - 🌱 Currently learning **Rust** and mastering **Docker** for containerized deployments.
 - 🤜 Open to collaborating on **open-source projects** related to web development.
 - 📫 Reach out to me via email at **sutharjay3635@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/sutharjay1/).
-- 😄 Pronouns: **he/him**
 
 ---
 
