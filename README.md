@@ -17,12 +17,8 @@
 ---
 
 ### 🚀 What I'm Working On:
-- I worked as the **Tech Lead** on **Femeraa**, an e-commerce platform that simplifies the purchase of essential health products. My role involved designing a scalable architecture that supported **100+ daily users**, optimizing performance, and ensuring a smooth user experience from browsing to checkout. I also developed a custom **invoice generator** to streamline order processing.
-- Developed a **Website Monitoring Tool** that keeps websites in check, ensuring they stay online and perform well. It’s designed to catch downtime and performance issues before users do, keeping sites fast and reliable.
-- I'm passionate about crafting **scalable and modern web applications** using **React.js** and **Next.js**, with an emphasis on clean code, maintainability, and a delightful user experience.
-- Exploring **server-side rendering (SSR)** and **incremental static regeneration (ISR)** with **Next.js** to make websites faster and more interactive.
-- Building **full-stack applications** that bridge intuitive front-end interfaces with powerful back-end systems through **REST APIs** and **database integrations**.
-
+- Togl: Currently building a SaaS feature management platform designed for scalable growth. Togl enables feature deployment, A/B testing, and real-time caching using technologies like Cloudflare Workers and Redis to ensure seamless feature delivery for modern development teams.
+- Femeraa: Led as the Tech Lead on this e-commerce platform that simplifies purchasing essential health products. Designed a scalable architecture supporting 100+ daily users, enhanced performance, and ensured a smooth browsing and checkout experience. Also built a custom invoice generator to streamline order processing.
 ---
 
 ### 🌱 Currently Learning:
