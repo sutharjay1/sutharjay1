@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Jay Suthar!
 
 - 👀 I'm a passionate web developer with expertise in **Next.js**, **React.js**, **Tailwind CSS**, **Node.js**, **Express.js**,  **MongoDB**, **PostgreSQL**, **Docker**, **Redis**, **MySQL**, **Bun**, and **Deno**.
-- 🌱 Currently learning **Rust** and mastering **Docker** for containerized deployments.
+- 🌱 Currently learning **Rust** and **SurrealDB**.
 - 🤜 Open to collaborating on **open-source projects** related to web development.
 - 📫 Reach out to me via email at **sutharjay3635@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/sutharjay1/).
 
 ---
 
 ### 💻 Tech Stack:
-- **Frontend**: React.js, Next.js, Tailwind CSS, Typescript
-- **Backend**: Node.js, Express.js
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **DevOps**: Docker, Vercel
-- **Others**: Bun, Deno
+- **Frontend**: ReactJS, NextJS, Tailwind, Javascript, Typescript,  
+- **Backend**: NodeJS, ExpressJS, HonoJS
+- **Databases**: PostgreSQL, MongoDB, Redis, SurrealDB
+- **DevOps**: Docker, Vercel, Cloudflare
+- **Others**: pnpm, Deno
 
 ---
 ### 🚀 What I'm Working On:
