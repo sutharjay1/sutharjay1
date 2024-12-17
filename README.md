@@ -15,10 +15,22 @@
 - **Others**: Bun, Deno
 
 ---
-
 ### 🚀 What I'm Working On:
-- Togl: Currently building a SaaS feature management platform designed for scalable growth. Togl enables feature deployment, A/B testing, and real-time caching using technologies like Cloudflare Workers and Redis to ensure seamless feature delivery for modern development teams.
-- Femeraa: Led as the Tech Lead on this e-commerce platform that simplifies purchasing essential health products. Designed a scalable architecture supporting 100+ daily users, enhanced performance, and ensured a smooth browsing and checkout experience. Also built a custom invoice generator to streamline order processing.
+
+#### **Response**
+
+Response is a versatile feedback collection system designed to capture **text-based** and **video feedback** from users. It supports embedding on any platform via a simple script and provides a real-time feedback submission experience.
+
+Key Features:
+
+-   **Dynamic Feedback Forms**: Create fully customizable forms with components like input fields, checkboxes, star ratings, and media uploads (images/videos).
+-   **Sortable Components**: Drag-and-drop interface for rearranging form elements for ease of use.
+-   **Embedded Feedback Scripts**: Integrate with websites effortlessly by embedding a generated script.
+-   **Real-Time Updates**: Notifications and analytics for submitted feedback powered by real-time technology.
+-   **Cloud-Based Media Storage**: Efficient storage and retrieval of uploaded images and videos.
+-   **Analytics Dashboard**: Insights into collected feedback with visual metrics to track user responses effectively.
+-   **Future Additions**: Plan to implement a caching layer for enhanced performance and expand real-time capabilities to offer more live insights. 
+
 ---
 
 ### 🌱 Currently Learning:
